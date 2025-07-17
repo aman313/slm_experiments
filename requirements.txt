@@ -1,0 +1,15 @@
+torch>=2.0.0
+transformers>=4.30.0
+langchain>=0.0.225
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+datasets>=2.12.0
+evaluate>=0.4.0
+accelerate>=0.20.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+pyyaml>=6.0
+scikit-learn>=1.2.2
+vllm
