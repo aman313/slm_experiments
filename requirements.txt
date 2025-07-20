@@ -13,3 +13,9 @@ tqdm>=4.65.0
 pyyaml>=6.0
 scikit-learn>=1.2.2
 vllm
+huggingface-hub
+python-dotenv
+wandb
+trl
+sqlparse
+trl[vllm]
